@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatvikPraveen.
 - 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning skiils necessary for Data Analytics.
+- 🌱 I’m currently learning skiLls necessary for Data Analytics.
 - 💞️ I’m looking to collaborate on Data Analytics.
 - 📫 How to reach me ...
 
