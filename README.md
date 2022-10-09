@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SatvikPraveen.
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning skiLls necessary for Data Analytics.
+- 👀 I’m interested in Data Analytics and Visualizations.
+- 🌱 I’m currently pursuing post graduation in Data Science from IIIT Bangalore.
 - 💞️ I’m looking to collaborate on Data Analytics.
-- 📫 How to reach me ...
+- 📫 You can connect with me on <a href="www.linkedin.com/in/satvikpraveen">LinkedIn</a>  
 
 <!---
 SatvikPraveen/SatvikPraveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
