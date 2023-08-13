@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatvikPraveen.
 - 👀 I’m interested in Data Analytics, Data Visualizations, and Statistics.
-- 🌱 I’m currently pursuing post graduation in Data Science from IIIT Bangalore.
+- 🌱 I’m currently a grad student at Texas A&M University, pursuing MSDS since Fall 2023.
 - 💞️ I’m looking to collaborate on Statistics and Data Science.
 - 📫 You can connect with me on <a href="www.linkedin.com/in/satvikpraveen">LinkedIn</a>  
 
