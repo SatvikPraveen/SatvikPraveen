@@ -20,7 +20,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me @SatvikPraveen or just to say hello! Let's make a mark in data science together. 🌟
 
-<img align="right" height="250" width="375" alt="" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Gif/giphy_1.gif" />
+<img align="right" height="225" width="350" alt="" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Gif/giphy_1.gif" />
 
 ### Talking about Personal Stuff:
 
