@@ -24,7 +24,7 @@ I welcome you to connect with me at @SatvikPraveen, whether for professional net
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Python, Jupyter Notebooks, AWS, etc.
+- 🛠 &nbsp; I’m currently working with Python, Jupyter Notebooks, AWS, SQL, C++, Tableau, PowerBI, Excel, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, CV, etc.
 - 👾 &nbsp; Fun fact: When life throws me a brain-buster, I just consult my personal neural net. It occassionally suggests having a coffee break or pondering the mysteries of the universe instead of providing straightforward solutions!
 - 📫 &nbsp; Reach me out: satvikpraveen786@gmail.com.
