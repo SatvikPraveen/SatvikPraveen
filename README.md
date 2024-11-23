@@ -19,7 +19,7 @@ Beyond the code, I am an intrepid explorer of new technologies, an insatiable le
 
 I welcome you to connect with me at @SatvikPraveen, whether for professional networking or just to exchange a friendly greeting. Let's collaborate and leave our mark on the exciting landscape of data science together. 🌟
 
-<img align="right" height="250" width="350" alt="" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/Profile_Page_Picture.png" />
+<img align="right" height="250" width="350" alt="" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/profile_page_picture.png" />
 
 ### Talking about Personal Stuff:
 
@@ -44,6 +44,8 @@ I welcome you to connect with me at @SatvikPraveen, whether for professional net
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 
+<div>
+<img align="right" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/corner_pic.png" alt="Custom Image" height="250" width="350" />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> MacOS 13 Ventura</li>
@@ -54,6 +56,7 @@ I welcome you to connect with me at @SatvikPraveen, whether for professional net
  	    <li><b>Other Tools:</b> Postman, PowerBI, Tableau, MS-Excel</li>
 	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
 	</ul>
+</div>
 </details>
 
 #
