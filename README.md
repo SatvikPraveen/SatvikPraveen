@@ -1,4 +1,3 @@
-
 <!---
 SatvikPraveen/SatvikPraveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -7,8 +6,7 @@ You can click the Preview link to take a look at your changes.
 # Hi there, I'm [Satvik !!](https://github.com/SatvikPraveen)
 
 ![](https://komarev.com/ghpvc/?username=SatvikPraveen&abbreviated=true)
-[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fprav_satvik
-)](https://twitter.com/prav_satvik)
+[![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fprav_satvik)](https://twitter.com/prav_satvik)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satvikpraveen/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
@@ -21,7 +19,7 @@ Beyond the code, I am an intrepid explorer of new technologies, an insatiable le
 
 I welcome you to connect with me at @SatvikPraveen, whether for professional networking or just to exchange a friendly greeting. Let's collaborate and leave our mark on the exciting landscape of data science together. 🌟
 
-<img align="right" height="225" width="350" alt="" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Gif/giphy_1.gif" />
+<img align="right" height="225" width="350" alt="" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/Profile_Page_Picture.png" />
 
 ### Talking about Personal Stuff:
 
