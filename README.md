@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi there, I'm [Satvik !!](https://github.com/SatvikPraveen)
 
+![](https://komarev.com/ghpvc/?username=SatvikPraveen&abbreviated=true)
 [![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fprav_satvik
 )](https://twitter.com/prav_satvik)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satvikpraveen/)
