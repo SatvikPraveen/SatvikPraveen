@@ -19,7 +19,7 @@ Beyond the code, I am an intrepid explorer of new technologies, an insatiable le
 
 I welcome you to connect with me at @SatvikPraveen, whether for professional networking or just to exchange a friendly greeting. Let's collaborate and leave our mark on the exciting landscape of data science together. 🌟
 
-<img align="right" height="225" width="350" alt="" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/Profile_Page_Picture.png" />
+<img align="right" height="250" width="350" alt="" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/Profile_Page_Picture.png" />
 
 ### Talking about Personal Stuff:
 
