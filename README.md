@@ -35,6 +35,8 @@ I welcome you to connect with me at @SatvikPraveen, whether for professional net
 - 🍕 &nbsp; Collaboration, Discussion, Presentation, whenever and wherever possible.
 
 ### Languages and Tools:
+<div>
+    <img align="right" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/corner_pic.png" alt="Custom Image" height="275" width="350" />
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
@@ -44,8 +46,6 @@ I welcome you to connect with me at @SatvikPraveen, whether for professional net
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 
-<div>
-<img align="right" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/corner_pic.png" alt="Custom Image" height="250" width="350" />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> MacOS 13 Ventura</li>
