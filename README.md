@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 [![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fprav_satvik)](https://twitter.com/prav_satvik)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satvikpraveen/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp;
 
 I am currently immersed in the dynamic world of data as an MSDS (Master of Science in Data Science) student at the esteemed Texas A&M University in College Station, Texas, United States. My journey is fueled by a fervent ambition to carve out a prominent niche for myself as a distinguished Data Scientist in the industry, propelling my career trajectory like a rocket. 🚀
 
