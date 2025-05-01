@@ -77,8 +77,8 @@ With a solid foundation in tools such as **Python, Git, Docker, SQL, Excel, and 
 - 🧘 **Prioritize Clarity** – In code, design, and communication. Clarity accelerates collaboration.  
 - 🎯 **Be Outcome-Obsessed** – Focus on results that empower users, simplify processes, or enable innovation.  
 - 🛠 **Own the Craft** – Attention to detail isn't optional. A polished build speaks louder than words.  
-- 🧬 **Think Long-Term** – Optimize not just for today’s problems, but for scalability and future evolution.  
-
+- 🧬 **Think Long-Term** – Optimize not just for today’s problems, but for scalability and future evolution.
+- 🌊 **Adapt and Iterate** – Embrace feedback, learn from setbacks, and evolve with every iteration. Growth is a process.
 
 ## 💬 Fun Fact
 
