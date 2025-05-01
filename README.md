@@ -9,8 +9,6 @@ You can click the Preview link to take a look at your changes.
 [![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fprav_satvik)](https://twitter.com/prav_satvik)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satvikpraveen/)
 
----
-
 ## 🚀 About Me
 
 I am currently pursuing my Master of Science in Data Science (MSDS) at **Texas A&M University**, College Station, USA. I’m deeply passionate about **solving real-world problems** through data-driven approaches and aspire to become a **leading Data Scientist** in the industry.
@@ -19,9 +17,7 @@ My interests span across **Machine Learning**, **Generative AI**, and **Computer
 
 With a solid foundation in tools such as **Python, Git, Docker, SQL, Excel, and AWS**, I have actively led and contributed to diverse academic and collaborative projects. Beyond coding, I’m an enthusiastic learner who enjoys tech talks, writing, and sharing knowledge.
 
-📬 **Let’s connect** — Feel free to reach out via [email](mailto:satvikpraveen786@gmail.com) or [LinkedIn](https://www.linkedin.com/in/satvikpraveen/).
-
----
+📬 **Let’s connect** — Feel free to reach out via [email](mailto:satvikpraveen786@gmail.com) or [LinkedIn](https://www.linkedin.com/in/satvikpraveen/)
 
 ## 🧠 What I'm Working On
 
@@ -30,11 +26,9 @@ With a solid foundation in tools such as **Python, Git, Docker, SQL, Excel, and 
 - 📊 &nbsp; Enhancing my visualization and reporting skills with PowerBI and interactive dashboards  
 - 🔄 &nbsp; Contributing to open-source & collaborative research in AI and Data Analytics  
 
----
+## 🎯 Areas of Interest
 
 <img align="right" height="250" width="350" alt="Profile Visual" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/profile_pic.png" />
-
-## 🎯 Areas of Interest
 
 - 🧩 Applied Machine Learning & Deep Learning  
 - 📈 Time-Series & Forecasting  
@@ -42,7 +36,7 @@ With a solid foundation in tools such as **Python, Git, Docker, SQL, Excel, and 
 - 📊 Visual Analytics & Storytelling  
 - 🧠 Natural Language Processing & LLMs  
 
----
+&nbsp;
 
 ## 🧰 Languages & Tools
 
@@ -53,9 +47,8 @@ With a solid foundation in tools such as **Python, Git, Docker, SQL, Excel, and 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="MongoDB"></code>
 
----
-
 ## 🧩 Tech Stack I Use
+
 
 <details>
 <summary><b>⚙️ My Development Environment</b></summary>
@@ -70,15 +63,13 @@ With a solid foundation in tools such as **Python, Git, Docker, SQL, Excel, and 
 </ul>
 </details>
 
----
-
-<img align="right" height="350" width="350" alt="Corner Image" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/corner_pic.png" />
-
 ## 💬 Fun Fact
+
+<img align="right" height="450" width="350" alt="Corner Image" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/corner_pic.png" />
 
 When I hit a roadblock in code or thought, I often consult my personal neural network — and sometimes it simply recommends a good coffee break! ☕✨
 
----
+&nbsp;
 
 <div align="center">
   
