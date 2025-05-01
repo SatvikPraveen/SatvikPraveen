@@ -31,13 +31,16 @@ With a solid foundation in tools such as **Python, Git, Docker, SQL, Excel, and 
 <img align="right" height="250" width="350" alt="Profile Visual" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/profile_pic.png" />
 
 - 🧩 Applied Machine Learning & Deep Learning  
-- 📈 Time-Series & Forecasting  
-- 🖼️ Computer Vision & Spectral NeRFs  
-- 📊 Visual Analytics & Storytelling  
-- 🧠 Natural Language Processing & LLMs  
+- 📉 Time-Series Analysis & Forecasting  
+- 🖼️ Computer Vision, 3D Reconstruction & Spectral NeRFs  
+- 📊 Visual Analytics, Dashboards & Storytelling  
+- 🧠 Natural Language Processing, Transformers & LLMs  
+- 🧬 Multimodal AI: Vision-Language Models & Prompt Engineering  
+- 📦 Model Deployment: Streamlit, RShiny, Flask APIs  
+- ☁️ Cloud Computing & Scalable Workflows (AWS, Colab, HPRC)  
+- 🧪 Research Translation: From Academic Prototypes to Applied AI  
 
 &nbsp;
-<br><br><br>
 
 ## 🧰 Languages & Tools
 
