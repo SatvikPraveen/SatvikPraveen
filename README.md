@@ -32,7 +32,7 @@ With a solid foundation in tools such as **Python, Git, Docker, SQL, Excel, and 
 
 ---
 
-<img align="right" height="250" width="350" alt="Profile Visual" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/profile_page_picture.png" />
+<img align="right" height="250" width="350" alt="Profile Visual" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/profile_pic.png" />
 
 ## 🎯 Areas of Interest
 
@@ -72,7 +72,7 @@ With a solid foundation in tools such as **Python, Git, Docker, SQL, Excel, and 
 
 ---
 
-<img align="right" height="250" width="350" alt="Corner Image" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/corner_pic.png" />
+<img align="right" height="350" width="350" alt="Corner Image" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/corner_pic.png" />
 
 ## 💬 Fun Fact
 
