@@ -67,9 +67,20 @@ With a solid foundation in tools such as **Python, Git, Docker, SQL, Excel, and 
 </ul>
 </details>
 
-## 💬 Fun Fact
-
+## 🧭 Guiding Principles
 <img align="right" height="450" width="350" alt="Corner Image" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/corner_pic.png" />
+
+- 🧠 **Think in First Principles** – Break problems down to their fundamentals, then rebuild with insight and intention.  
+- 🚀 **Build for Impact** – Choose functionality that drives real outcomes and adds measurable value.  
+- 🧩 **Stay Curious** – Embrace ambiguity and remain open to unlearning and relearning as technology evolves.  
+- 📚 **Share to Learn** – Document, present, and teach — it strengthens understanding and helps the community grow.  
+- 🧘 **Prioritize Clarity** – In code, design, and communication. Clarity accelerates collaboration.  
+- 🎯 **Be Outcome-Obsessed** – Focus on results that empower users, simplify processes, or enable innovation.  
+- 🛠 **Own the Craft** – Attention to detail isn't optional. A polished build speaks louder than words.  
+- 🧬 **Think Long-Term** – Optimize not just for today’s problems, but for scalability and future evolution.  
+
+
+## 💬 Fun Fact
 
 When I hit a roadblock in code or thought, I often consult my personal neural network — and sometimes it simply recommends a good coffee break! ☕✨
 
