@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 About Me
 
-I am currently pursuing my Master of Science in Data Science (MSDS) at **Texas A&M University**, College Station, USA. I’m deeply passionate about **solving real-world problems** through data-driven approaches and aspire to become a **leading Data Scientist** in the industry.
+I recently completed my **Master of Science in Data Science (MSDS)** from **Texas A&M University**, College Station, USA. I am passionate about **solving real-world problems** through data-driven approaches and aspire to grow as a **leading Data Scientist** in the industry. My work bridges rigorous analytical thinking with practical implementation, and I continually seek opportunities to apply my skills to impactful projects.
 
 My interests span across **Machine Learning**, **Generative AI**, and **Computer Vision**, and I continuously explore new tools and technologies to enhance my problem-solving capabilities. I believe in first-principles thinking and enjoy the challenge of building solutions from the ground up.
 
