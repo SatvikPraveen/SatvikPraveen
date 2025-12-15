@@ -109,7 +109,7 @@ I approach problems using **first-principles thinking**, emphasizing clarity, me
 </details>
 
 ## 🧭 Guiding Principles
-<img align="right" height="350" width="350" alt="Corner Image" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/corner_pic.png" />
+<img align="right" height="150" width="250" alt="Corner Image" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/corner_pic.png" />
 
 * 🧠 **First-Principles Thinking** – Break problems down to fundamentals, then rebuild with intent
 * 🚀 **Build for Impact** – Favor solutions that deliver measurable, real-world value
