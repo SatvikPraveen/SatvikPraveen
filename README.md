@@ -59,6 +59,7 @@ I approach problems using **first-principles thinking**, emphasizing clarity, me
 <img
   align="right"
   width="300"
+  height="450"
   alt="ML Systems Workflow"
   src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/ml_workflow_vertical.png"
 />
