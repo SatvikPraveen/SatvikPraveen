@@ -43,7 +43,7 @@ I approach problems using **first-principles thinking**, emphasizing clarity, me
 
 ## 🎯 Areas of Interest
 
-<img align="right" height="250" width="350" alt="Profile Visual" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/profile_pic.png" />
+<img align="right" height="200" width="320" alt="Profile Visual" src="https://github.com/SatvikPraveen/SatvikPraveen/blob/main/Assets/profile_pic.png" />
 
 * 🏥 Medical AI & Healthcare Applications
 * 🧩 Applied Machine Learning & Deep Learning
