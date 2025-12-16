@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 I am a **Ph.D. researcher in Computer Engineering** at the **University of South Florida**, working on **Medical AI** with a focus on **Machine Learning, Deep Learning, and Generative AI** for real-world healthcare applications. I previously completed my **M.S. in Data Science** at **Texas A&M University**.
 
-My work sits at the intersection of **research and engineering** — I design models, build reproducible pipelines, run rigorous evaluations, and deploy systems that move beyond notebooks. I am particularly interested in **computer vision, multimodal learning, and scalable ML systems**.
+My work sits at the intersection of **research and engineering** — I design models, build reproducible pipelines, run rigorous evaluations, and deploy systems that move beyond notebooks. I am particularly interested in **multimodal and language-centered learning, tool-augmented ML systems, and scalable ML infrastructure**.
 
 I approach problems using **first-principles thinking**, emphasizing clarity, measurable impact, and end-to-end ownership — from raw data to deployed models.
 
