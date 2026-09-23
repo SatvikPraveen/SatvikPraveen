@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="340" viewBox="0 0 380 340" role="img" aria-labelledby="title desc">
+<title id="title">Guiding Principles</title>
+<desc id="desc">A compass whose cardinal points read First Principles, Impact, Clarity, and Ownership.</desc>
+<defs>
+  <linearGradient id="needle" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#0d9488"/><stop offset="1" stop-color="#4f46e5"/>
+  </linearGradient>
+  <radialGradient id="face" cx="0.5" cy="0.4" r="0.6">
+    <stop offset="0" stop-color="#eef2f7"/><stop offset="1" stop-color="#f6f8fa"/>
+  </radialGradient>
+  <style>
+    .ts { stroke: #d0d7de; stroke-width: 1; }
+    .tm { stroke: #57606a; stroke-width: 1.2; opacity: .8; }
+    .tb { stroke: #0369a1; stroke-width: 2; }
+    .lab { font: 600 12.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .card { font: 700 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #57606a; letter-spacing: 1.5px; }
+    .needle { transform-origin: 190px 170px; animation: sway 6s ease-in-out infinite; }
+    @keyframes sway { 0%,100% { transform: rotate(-14deg) } 50% { transform: rotate(14deg) } }
+  </style>
+</defs>
+<rect width="380" height="340" rx="20" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="379" height="339" rx="20" fill="none" stroke="#d0d7de"/>
+<circle cx="190" cy="170" r="94" fill="url(#face)" stroke="#d0d7de"/>
+<line x1="270.0" y1="170.0" x2="282.0" y2="170.0" class="tb"/><line x1="277.7" y1="177.7" x2="281.6" y2="178.0" class="ts"/><line x1="276.7" y1="185.3" x2="280.6" y2="186.0" class="ts"/><line x1="275.0" y1="192.8" x2="278.9" y2="193.8" class="ts"/><line x1="272.7" y1="200.1" x2="276.5" y2="201.5" class="ts"/><line x1="269.8" y1="207.2" x2="273.4" y2="208.9" class="ts"/><line x1="262.7" y1="212.0" x2="269.7" y2="216.0" class="tm"/><line x1="262.1" y1="220.5" x2="265.4" y2="222.8" class="ts"/><line x1="257.4" y1="226.6" x2="260.5" y2="229.1" class="ts"/><line x1="252.2" y1="232.2" x2="255.1" y2="235.1" class="ts"/><line x1="246.6" y1="237.4" x2="249.1" y2="240.5" class="ts"/><line x1="240.5" y1="242.1" x2="242.8" y2="245.4" class="ts"/><line x1="232.0" y1="242.7" x2="236.0" y2="249.7" class="tm"/><line x1="227.2" y1="249.8" x2="228.9" y2="253.4" class="ts"/><line x1="220.1" y1="252.7" x2="221.5" y2="256.5" class="ts"/><line x1="212.8" y1="255.0" x2="213.8" y2="258.9" class="ts"/><line x1="205.3" y1="256.7" x2="206.0" y2="260.6" class="ts"/><line x1="197.7" y1="257.7" x2="198.0" y2="261.6" class="ts"/><line x1="190.0" y1="250.0" x2="190.0" y2="262.0" class="tb"/><line x1="182.3" y1="257.7" x2="182.0" y2="261.6" class="ts"/><line x1="174.7" y1="256.7" x2="174.0" y2="260.6" class="ts"/><line x1="167.2" y1="255.0" x2="166.2" y2="258.9" class="ts"/><line x1="159.9" y1="252.7" x2="158.5" y2="256.5" class="ts"/><line x1="152.8" y1="249.8" x2="151.1" y2="253.4" class="ts"/><line x1="148.0" y1="242.7" x2="144.0" y2="249.7" class="tm"/><line x1="139.5" y1="242.1" x2="137.2" y2="245.4" class="ts"/><line x1="133.4" y1="237.4" x2="130.9" y2="240.5" class="ts"/><line x1="127.8" y1="232.2" x2="124.9" y2="235.1" class="ts"/><line x1="122.6" y1="226.6" x2="119.5" y2="229.1" class="ts"/><line x1="117.9" y1="220.5" x2="114.6" y2="222.8" class="ts"/><line x1="117.3" y1="212.0" x2="110.3" y2="216.0" class="tm"/><line x1="110.2" y1="207.2" x2="106.6" y2="208.9" class="ts"/><line x1="107.3" y1="200.1" x2="103.5" y2="201.5" class="ts"/><line x1="105.0" y1="192.8" x2="101.1" y2="193.8" class="ts"/><line x1="103.3" y1="185.3" x2="99.4" y2="186.0" class="ts"/><line x1="102.3" y1="177.7" x2="98.4" y2="178.0" class="ts"/><line x1="110.0" y1="170.0" x2="98.0" y2="170.0" class="tb"/><line x1="102.3" y1="162.3" x2="98.4" y2="162.0" class="ts"/><line x1="103.3" y1="154.7" x2="99.4" y2="154.0" class="ts"/><line x1="105.0" y1="147.2" x2="101.1" y2="146.2" class="ts"/><line x1="107.3" y1="139.9" x2="103.5" y2="138.5" class="ts"/><line x1="110.2" y1="132.8" x2="106.6" y2="131.1" class="ts"/><line x1="117.3" y1="128.0" x2="110.3" y2="124.0" class="tm"/><line x1="117.9" y1="119.5" x2="114.6" y2="117.2" class="ts"/><line x1="122.6" y1="113.4" x2="119.5" y2="110.9" class="ts"/><line x1="127.8" y1="107.8" x2="124.9" y2="104.9" class="ts"/><line x1="133.4" y1="102.6" x2="130.9" y2="99.5" class="ts"/><line x1="139.5" y1="97.9" x2="137.2" y2="94.6" class="ts"/><line x1="148.0" y1="97.3" x2="144.0" y2="90.3" class="tm"/><line x1="152.8" y1="90.2" x2="151.1" y2="86.6" class="ts"/><line x1="159.9" y1="87.3" x2="158.5" y2="83.5" class="ts"/><line x1="167.2" y1="85.0" x2="166.2" y2="81.1" class="ts"/><line x1="174.7" y1="83.3" x2="174.0" y2="79.4" class="ts"/><line x1="182.3" y1="82.3" x2="182.0" y2="78.4" class="ts"/><line x1="190.0" y1="90.0" x2="190.0" y2="78.0" class="tb"/><line x1="197.7" y1="82.3" x2="198.0" y2="78.4" class="ts"/><line x1="205.3" y1="83.3" x2="206.0" y2="79.4" class="ts"/><line x1="212.8" y1="85.0" x2="213.8" y2="81.1" class="ts"/><line x1="220.1" y1="87.3" x2="221.5" y2="83.5" class="ts"/><line x1="227.2" y1="90.2" x2="228.9" y2="86.6" class="ts"/><line x1="232.0" y1="97.3" x2="236.0" y2="90.3" class="tm"/><line x1="240.5" y1="97.9" x2="242.8" y2="94.6" class="ts"/><line x1="246.6" y1="102.6" x2="249.1" y2="99.5" class="ts"/><line x1="252.2" y1="107.8" x2="255.1" y2="104.9" class="ts"/><line x1="257.4" y1="113.4" x2="260.5" y2="110.9" class="ts"/><line x1="262.1" y1="119.5" x2="265.4" y2="117.2" class="ts"/><line x1="262.7" y1="128.0" x2="269.7" y2="124.0" class="tm"/><line x1="269.8" y1="132.8" x2="273.4" y2="131.1" class="ts"/><line x1="272.7" y1="139.9" x2="276.5" y2="138.5" class="ts"/><line x1="275.0" y1="147.2" x2="278.9" y2="146.2" class="ts"/><line x1="276.7" y1="154.7" x2="280.6" y2="154.0" class="ts"/><line x1="277.7" y1="162.3" x2="281.6" y2="162.0" class="ts"/>
+<circle cx="190" cy="170" r="74" fill="none" stroke="#d0d7de" stroke-dasharray="3 5"/>
+<text x="190" y="116" text-anchor="middle" class="card">N</text>
+<text x="250" y="174" text-anchor="middle" class="card">E</text>
+<text x="190" y="234" text-anchor="middle" class="card">S</text>
+<text x="130" y="174" text-anchor="middle" class="card">W</text>
+<g class="needle">
+  <path d="M190 104 L199 170 L181 170 Z" fill="url(#needle)"/>
+  <path d="M190 236 L199 170 L181 170 Z" fill="#d0d7de"/>
+</g>
+<circle cx="190" cy="170" r="7" fill="#ffffff" stroke="#0d9488" stroke-width="2.5"/>
+<text x="190" y="34" text-anchor="middle" class="lab">First Principles</text><text x="294" y="174" text-anchor="start" class="lab">Impact</text><text x="190" y="292" text-anchor="middle" class="lab">Clarity</text><text x="86" y="174" text-anchor="end" class="lab">Ownership</text>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="280" viewBox="0 0 1180 280" role="img" aria-labelledby="title desc">
+<title id="title">ML Systems Workflow</title>
+<desc id="desc">Data ingestion, training and tuning, evaluation and ablations, deployment and monitoring, with an iterate loop.</desc>
+<defs>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0d9488"/><stop offset="0.55" stop-color="#0369a1"/><stop offset="1" stop-color="#4f46e5"/>
+  </linearGradient>
+  <style>
+    .h1  { font: 700 22px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .h2  { font: 400 14px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #57606a; }
+    .card { fill: #f6f8fa; stroke: #d0d7de; }
+    .icon { fill: none; stroke: #0d9488; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .ttl { font: 600 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .sub { font: 400 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #57606a; }
+    .num { font: 700 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #d0d7de; letter-spacing: 1px; }
+    .flow { stroke: #0369a1; stroke-width: 2; stroke-dasharray: 6 6; animation: dash 1.2s linear infinite; }
+    .loop { fill: none; stroke: #4f46e5; stroke-width: 1.6; stroke-dasharray: 5 6; opacity: .8; animation: dash 1.6s linear infinite; }
+    .arrow { fill: none; stroke: #0369a1; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .pill { fill: #ffffff; stroke: #d0d7de; }
+    .pilltxt { font: 500 11.5px -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #57606a; }
+    @keyframes dash { to { stroke-dashoffset: -24; } }
+  </style>
+</defs>
+<rect width="1180" height="280" rx="18" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="1179" height="279" rx="18" fill="none" stroke="#d0d7de"/>
+<text x="34" y="44" class="h1">ML Systems Workflow</text>
+<text x="34" y="68" class="h2">From raw data to deployed models — reproducible, rigorously evaluated, owned end-to-end</text>
+<line x1="293" y1="155.0" x2="313" y2="155.0" class="flow"/>
+<path d="M310 150.0 L317 155.0 L310 160.0" class="arrow"/><line x1="578" y1="155.0" x2="598" y2="155.0" class="flow"/>
+<path d="M595 150.0 L602 155.0 L595 160.0" class="arrow"/><line x1="863" y1="155.0" x2="883" y2="155.0" class="flow"/>
+<path d="M880 150.0 L887 155.0 L880 160.0" class="arrow"/>
+<g transform="translate(34,96)">
+  <rect width="255" height="118" rx="14" class="card"/>
+  <rect x="0" y="0" width="255" height="4" rx="2" fill="url(#accent)" opacity=".9"/>
+  <g transform="translate(30,52)" class="icon"><ellipse cx="0" cy="-9" rx="11" ry="4.5"/><path d="M-11 -9v18c0 2.5 4.9 4.5 11 4.5s11-2 11-4.5v-18"/><path d="M-11 0c0 2.5 4.9 4.5 11 4.5S11 2.5 11 0"/></g>
+  <text x="58" y="47" class="ttl">Data Ingestion</text>
+  <text x="58" y="72" class="sub">Pipelines · validation · versioning</text>
+  <text x="239" y="106" class="num" text-anchor="end">01</text>
+</g><g transform="translate(319,96)">
+  <rect width="255" height="118" rx="14" class="card"/>
+  <rect x="0" y="0" width="255" height="4" rx="2" fill="url(#accent)" opacity=".9"/>
+  <g transform="translate(30,52)" class="icon"><rect x="-9" y="-9" width="18" height="18" rx="3"/><rect x="-4" y="-4" width="8" height="8" rx="1.5"/><path d="M-3 -13v4M3 -13v4M-3 9v4M3 9v4M-13 -3h4M-13 3h4M9 -3h4M9 3h4"/></g>
+  <text x="58" y="47" class="ttl">Training &amp; Tuning</text>
+  <text x="58" y="72" class="sub">PyTorch · experiments · configs</text>
+  <text x="239" y="106" class="num" text-anchor="end">02</text>
+</g><g transform="translate(604,96)">
+  <rect width="255" height="118" rx="14" class="card"/>
+  <rect x="0" y="0" width="255" height="4" rx="2" fill="url(#accent)" opacity=".9"/>
+  <g transform="translate(30,52)" class="icon"><path d="M-12 12h24"/><rect x="-10" y="0" width="5" height="10" rx="1"/><rect x="-2.5" y="-7" width="5" height="17" rx="1"/><rect x="5" y="-12" width="5" height="22" rx="1"/></g>
+  <text x="58" y="47" class="ttl">Evaluation &amp; Ablations</text>
+  <text x="58" y="72" class="sub">Benchmarks · metrics · rigor</text>
+  <text x="239" y="106" class="num" text-anchor="end">03</text>
+</g><g transform="translate(889,96)">
+  <rect width="255" height="118" rx="14" class="card"/>
+  <rect x="0" y="0" width="255" height="4" rx="2" fill="url(#accent)" opacity=".9"/>
+  <g transform="translate(30,52)" class="icon"><path d="M0 -13c5 3 8 9 8 15l-3 3h-10l-3-3c0-6 3-12 8-15z"/><circle cx="0" cy="-3" r="2.5"/><path d="M-5 5l-5 3 2-6M5 5l5 3-2-6M-2 8l2 5 2-5"/></g>
+  <text x="58" y="47" class="ttl">Deployment &amp; Monitoring</text>
+  <text x="58" y="72" class="sub">Docker · AWS · HPRC · observability</text>
+  <text x="239" y="106" class="num" text-anchor="end">04</text>
+</g>
+<path d="M1016.5 218 V250 H161.5 V226" class="loop"/>
+<path d="M156.5 232 L161.5 222 L166.5 232" class="arrow"/>
+<rect x="513.0" y="239" width="152" height="22" rx="11" class="pill"/>
+<text x="589.0" y="254" class="pilltxt" text-anchor="middle">iterate · ablate · improve</text>
+</svg>
