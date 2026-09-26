@@ -293,6 +293,3 @@ def compass(t):
 
 for t in THEMES:
     write("banner", t, banner(t))
-    write("ml-workflow", t, workflow(t))
-    write("interests", t, interests(t))
-    write("principles", t, compass(t))
