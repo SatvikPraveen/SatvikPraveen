@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatvikPraveen/SatvikPraveen/main/Assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatvikPraveen/SatvikPraveen/main/Assets/banner-light.svg">
-  <img alt="Satvik Praveen, PhD Researcher: computer vision, generative AI and efficient ML" src="https://raw.githubusercontent.com/SatvikPraveen/SatvikPraveen/main/Assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SatvikPraveen/SatvikPraveen/main/Assets/banner-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SatvikPraveen/SatvikPraveen/main/Assets/banner-light.svg?v=2">
+  <img alt="Satvik Praveen, PhD Researcher: computer vision, generative AI and efficient ML" src="https://raw.githubusercontent.com/SatvikPraveen/SatvikPraveen/main/Assets/banner-light.svg?v=2" width="100%">
 </picture>
 
 <a href="https://scholar.google.com/citations?user=BMr6EWAAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
