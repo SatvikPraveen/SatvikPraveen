@@ -56,7 +56,7 @@ def banner(t):
     graph = "\n".join(parts)
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-labelledby="title desc">
 <title id="title">Satvik Praveen</title>
-<desc id="desc">PhD Researcher in Medical AI, ML Engineer, Generative AI</desc>
+<desc id="desc">PhD Researcher at USF: computer vision, generative AI and efficient ML</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="{c['bg']}"/><stop offset="1" stop-color="{c['bg2']}"/>
@@ -91,8 +91,8 @@ def banner(t):
 <rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="18" fill="none" stroke="{c['border']}"/>
 <text x="64" y="128" class="name">Satvik Praveen</text>
 <rect x="66" y="146" width="150" height="4" rx="2" fill="url(#accent)"/>
-<text x="64" y="192" class="tag">PhD Researcher in Medical AI  ·  ML Engineer  ·  Generative AI</text>
-<text x="64" y="228" class="sub">Ph.D. Computer Engineering, University of South Florida  ·  M.S. Data Science, Texas A&amp;M University</text>
+<text x="64" y="192" class="tag">PhD Researcher  ·  Computer Vision &amp; Generative AI  ·  Efficient ML</text>
+<text x="64" y="228" class="sub">Ph.D. Computer Science &amp; Engineering, University of South Florida  ·  M.S. Data Science, Texas A&amp;M</text>
 </svg>
 '''
 
