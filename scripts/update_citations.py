@@ -37,7 +37,7 @@ def main():
 
     badge = {"schemaVersion": 1, "label": "Citations", "message": str(count),
              "color": "4285F4", "namedLogo": "googlescholar", "logoColor": "white",
-             "style": "flat-square", "cacheSeconds": 86400}
+             "style": "flat-square", "cacheSeconds": 3600}
     with open(OUT, "w") as f:
         json.dump(badge, f, indent=2)
         f.write("\n")

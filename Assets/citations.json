@@ -6,5 +6,5 @@
   "namedLogo": "googlescholar",
   "logoColor": "white",
   "style": "flat-square",
-  "cacheSeconds": 86400
+  "cacheSeconds": 3600
 }
