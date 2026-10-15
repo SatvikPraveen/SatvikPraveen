@@ -14,7 +14,7 @@
 
 </div>
 
-PhD researcher in Computer Science & Engineering at the **University of South Florida** (YES Lab, advisor: Dr. Yi Sheng), working on efficient and generative AI for computer vision and imaging. Before USF I completed an M.S. in Data Science at Texas A&M, where I worked on NeRF and Gaussian Splatting for plant phenotyping.
+PhD researcher in Computer Science & Engineering at the **University of South Florida**, working on efficient and generative AI for computer vision and imaging. Before USF I completed an M.S. in Data Science at Texas A&M, where I worked on NeRF and Gaussian Splatting for plant phenotyping.
 
 I care about strong baselines, careful evaluation and code that others can reproduce.
 
